@@ -61,7 +61,7 @@ class Admin extends MX_Controller {
 				return $captcha['filename'];		
 		}
 		
-		public function register()
+		public function index()
         {					
 			
 			if($this->input->post())
