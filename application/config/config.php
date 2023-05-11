@@ -17,8 +17,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | environments.
 |
 */
-$config['base_url'] = 'http://localhost/online-code/';
-$config['app_url'] = 'http://127.0.0.1/online-code/';
+$config['base_url'] = 'https://jp-git-jp.apps.cluster-nbdlb.nbdlb.sandbox2265.opentlc.com';
+$config['app_url'] = 'https://jp-git-jp.apps.cluster-nbdlb.nbdlb.sandbox2265.opentlc.com';
 
 
 /*
